@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<form action="{% url "App:start" %}" method="get">
+    <input type="submit" value="开始爬虫" name="reg">
+</form>
+ <table>
+                    <thead>
+                    <tr>
+                        <th>序号</th>
+                        <th>国家</th>
+                        <th>面积</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    {% for guojia in guojia %}
+                        <tr>
+                            <td>{{ guojia.id }}</td>
+                            <td>{{ guojia.name }}</td>
+                            <td>{{ guojia.population }}</td>
+                        </tr>
+                    {% endfor %}
+
+
+
+
+                    </tbody>
+ </table>
+</body>
+</html>

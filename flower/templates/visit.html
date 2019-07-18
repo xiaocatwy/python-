@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="referrer" content="never">
+    <title>假花网</title>
+
+    <link href="http://cdn.bootcss.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+
+
+    <style>
+        .grid-sizer,
+        .grid-item {float: left; margin-bottom: 8px;}
+        .grid-item img{ width: 100%; border-radius: 5px;}
+    </style>
+  </head>
+  <body>
+	  <div class="row" style="background-color:#313131 ; height: 50px;">
+
+	  </div>
+	  <div class="row" style="background-color:#313131 ; height: 50px;">
+	    <div class="col-md-3"></div>
+	    <div class="col-md-6">
+            <form action="{% url 'App:index' %}" method="post">
+			<div class="input-group">
+
+                    {% csrf_token %}
+				<input name="search" class="form-control" type="text" placeholder="关键词">
+				<span class="input-group-btn">
+					<button  class="btn btn-default" type="submit"><span class="glyphicon glyphicon-search" aria-hidden="true"></span></button>
+				</span>
+
+			</div>
+           </form>
+			</div>
+	    <div class="col-md-3"></div>
+	  </div>
+      <div class="row" style="background-color: #000000;">
+		<div style="width: 100%; height: 30px;">
+		  </div>
+	 <div class="col-md-1" ></div>
+	 <div class="col-md-10">
+    <div class="container-fluid">
+      <div class="grid">
+        <div class="grid-sizer  col-sm-4 col-md-3 col-lg-2"></div>
+          {%  for guojia in guojias %}
+            <div class="grid-item  col-sm-4 col-md-3 col-lg-2">
+              <a href="http://huaban.com{{ guojia.imgherf }}" target="_blank"><img src="{{ guojia.imgurl }}"></a>
+            </div>
+          {% endfor %}
+      </div>
+    </div>
+</div>
+
+    <div class="col-md-1"></div>
+	<div style="width: 100%; height: 50px;">
+
+	</div>
+
+</div>
+      <div class="row" style="background-color:#000000 ; height: 250px;">
+
+	</div>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="http://cdn.bootcss.com/jquery/1.11.3/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="http://cdn.bootcss.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/masonry/3.3.2/masonry.pkgd.min.js"></script>
+   <script>
+        http:// init Masonry
+        var $grid = $('.grid').masonry({
+        	itemSelector: '.grid-item',
+		    columnWidth: '.grid-sizer',
+		    percentPosition: true
+        });
+
+        http:// layout Masonry after each image loads
+        $grid.imagesLoaded().progress( function() {
+     	   $grid.masonry('layout');
+        });
+    </script>
+   </body>
+</html>

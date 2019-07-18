@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>django-websocket</title>
+    <script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+    <script type="text/javascript">
+        function start () {
+            if (window.s) {
+                window.s.close()
+            }
+            /*创建socket连接*/
+            var socket = new WebSocket("ws://" + window.location.host + "/App/echo/");
+            socket.onopen = function () {
+                console.log('WebSocket open');//成功连接上Websocket
+            };
+            socket.onmessage = function (e) {
+                console.log('message: ' + e.data);//打印出服务端返回过来的数据
+                $('#messagecontainer').prepend('<p>' + e.data + '</p>');
+            };
+            // Call onopen directly if socket is already open
+            if (socket.readyState == WebSocket.OPEN) socket.onopen();
+            window.s = socket;
+        };
+
+    </script>
+</head>
+<body onload="start()">
+<br>
+{#<button type="button" id="connect_websocket">连接 websocket</button>#}
+<h1>Received Messages</h1>
+<div id="messagecontainer">
+
+</div>
+</body>
+</html>

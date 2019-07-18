@@ -1,0 +1,1161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9847a60d-e6f4-4ac6-9cfa-03439a0e33b5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../2/first/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2/first/firstday/templates/userlist.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2/hellodjango/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2/hellodjango/App/templates/uerlist.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3/day03/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3/day03/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3/day03/app/templates/fields.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3/day03/app/templates/userlist.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3/day3/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3/day3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6/day06/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6/day06/one/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6/day06/templates/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6/day06/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6/day06/templates/myredirect.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6/day06/templates/student.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6/day06/templates/studentlist.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6/day06/templates/teamlist.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8/day08/templates/app/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8/day08/templates/app/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../axf/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../axf/app/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../axf/static/app/cart/cart.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../axf/static/app/home/home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../axf/static/app/home/js/home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../axf/static/app/market/js/market.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../axf/static/app/market/market.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../axf/static/app/mine/mine.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../axf/static/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../axf/static/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../axf/static/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../axf/static/css/swiper.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../axf/static/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../axf/static/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../axf/static/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../axf/static/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../axf/static/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../axf/static/img/cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../axf/static/img/cart_selected.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../axf/static/img/home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../axf/static/img/home_selected.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../axf/static/img/market.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../axf/static/img/market_selected.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../axf/static/img/mine.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../axf/static/img/mine_selected.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../axf/static/js/base.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../axf/static/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../axf/static/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../axf/static/js/swiper.jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../axf/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../axf/templates/base_main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../axf/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../axf/templates/market.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bk/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bk/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bk/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog_huu/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog_huu/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/blog/VerifyCode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/blog/const.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/blog/sms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/blog/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/mymiddleware/MyMiddleware.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/css/m.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/css/wangEditor.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/font/SIMHEI.TTF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/fonts/glyphicons-halflings-regular(1).woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/fonts/glyphicons-halflings-regular(1).woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/fonts/icomoon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/fonts/icomoon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/fonts/icomoon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/fonts/icomoon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/5794.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/about.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/ad.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/alipay.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/alipayimg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/auicon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/author.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/avatar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/b01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/b02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/b03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/b04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/b05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/b06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/b07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/banner01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/banner02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/banner03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/bi01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/bi02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/bi03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/bi04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/bi05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/bi06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/blank.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/cd-top-arrow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/date.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/datepng.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/dsbz.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/dzbg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/gzbg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/jdbg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/lanmbq.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/mb01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/mb02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/mb03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/mb04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/mb05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/mb06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/mb07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/mb08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/navbg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/navline.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/navt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/newsbg01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/newsbg02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/newsbg03 (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/newsbg03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/newsbg04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/obscure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/page_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/page_time.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/posttime.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/qq32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/radio1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/radio2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/searchbg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/t01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/t02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/t03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/tbg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/text01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/text02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/titlebg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/toppic01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/toppic02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/v1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/v2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/wechat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/weipayimg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/wx.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/zd01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/zd02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/zd03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/images/》》》》》2018 - 快捷方式.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/jq/jquery-3.3.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/js/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/js/jquery-2.1.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/js/jquery-3.2.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/js/jquery.easyfader.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/js/menu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/js/modernizr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/js/page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/js/page2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/js/scrollReveal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/static/js/wangEditor.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/templates/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/templates/admin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/templates/adminlogin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/templates/article.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/templates/category.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/templates/comment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/templates/editearticle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/templates/editearticle1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/templates/editearticle2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/templates/gbook.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/templates/info.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/templates/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/templates/login2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/templates/notice.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/templates/share.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/templates/time.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boke/templates/user.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat/wpp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat/wpp/api/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat/wpp/ctxing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat/wpp/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat/wpp/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat/wpp/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../congwu/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../congwu/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../congwu/app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../congwu/app/ctxing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../congwu/app/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../congwu/app/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../congwu/app/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day05/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day05/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day05/app/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day05/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day05/three/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day05/two/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day07/templates/ajax/province.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day07/templates/ajax/register2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day09/app/VerifyCode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day09/static/font/SIMHEI.TTF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day09/templates/app/fileupload.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day7/app/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day7/templates/app/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day7/templates/app/caa.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day7/templates/app/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day7/templates/app/moban.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/User/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/资源/DjangoProject/project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/app/cookie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/app/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/app/templates/haha.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/app/user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/app/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/app/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/app/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/app/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/app/templates/var.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/app/views1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/app/views2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/app/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/app/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/app/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/app/cxt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/app/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/app/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/app/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled4/app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled4/app/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled4/app/email.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled4/app/extensions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled4/app/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled4/app/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/Resource/area.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/Resource/getarea.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/app/api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/app/ext.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/app/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/app/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/app/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/scz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/send.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/xfz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aa.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/ontime.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/visit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wenjian.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/App/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/css/ionic.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/js/jquery-3.2.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/css/55c16d94000109f300000000.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/css/55c16dab0001286100000000.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/css/55c16dc00001fa1a00000000.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/css/55c16dda0001113100000000.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/images/55adde120001d34e00410041.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/images/55adde2a0001a91d00410041.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/images/55adde5500013b2500400041.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/images/55adde62000161c100410041.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/images/55adde7f0001433000410041.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/images/55addee7000117b500400041.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/images/55addf6900019d8f14410645.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/images/55addf800001ff2e14410118.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/images/55addfcb000189b314410138.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/images/55addfde0001aec501810101.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/images/55addff500016df503010140.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/images/55ade004000106c202010201.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/images/55ade06f00015a0d14410901.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/images/55ade0be0001a37914410901.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/images/55ade1140001050d00910231.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/images/55ade12100019f5b00910231.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/images/55ade1700001b38302730071.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/images/55ade19b0001d92c14410645.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/images/55ade1b3000135c114410118.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/images/55ade1c30001db5d14410138.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/images/55ade1e000010f2908540027.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/images/55ade1fe00016b8900300031.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/images/55ade248000198ae10550582.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/images/55ade30d000100dc10570291.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/images/happy.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/js/55ac9a860001a6c500000000.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/js/55ac9ea30001ace700000000.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/js/55c16c910001e21b00000000.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/music/circulation.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/music/happy.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/55addf6900019d8f14410645.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/QixiA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/QixiB-bright.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/QixiB-dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/QixiC.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/background/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/background/a_background_botton.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/background/a_background_middle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/background/a_background_top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/background/c_background_botton.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/background/c_background_middle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/background/c_background_top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/bird.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/boy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/cloud1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/cloud2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/door-left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/door-right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/girl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/snowflake/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/snowflake/snowflake1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/snowflake/snowflake2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/snowflake/snowflake3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/snowflake/snowflake4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/snowflake/snowflake5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/snowflake/snowflake6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/stars.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/sun.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/water.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/原图/Qixi-bright.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/原图/QixiB-dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/原图/QixiB.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/原图/QixiB11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/原图/Qixic1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/原图/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/原图/bird1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/原图/bird2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/原图/bird3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/原图/boy-flower1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/原图/boy-flower2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/原图/boy-flower3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/原图/boy-flower4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/原图/boy-rotate1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/原图/boy-rotate2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/原图/boy-rotate3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/原图/boy-rotate4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/原图/boy-rotate5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/原图/boy-rotate6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/原图/boy-walk1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/原图/boy-walk2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/原图/boy-walk3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/原图/boy-walk4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/原图/bridge/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/原图/bridge/bridge-bottom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/原图/bridge/bridge-left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/原图/bridge/bridge-right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/原图/girl-rotate1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/原图/girl-rotate2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/原图/girl-rotate3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/原图/girl-rotate4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/原图/girl-rotate5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/原图/girl-rotate6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/原图/girl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/原图/person/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/原图/person/boy-flower.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/原图/person/boy-rotate.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/原图/person/boy-walk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/原图/person/girl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/原图/water1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/原图/water2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/原图/water3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/static/love/所有图片/原图/water4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/templates/adminindex.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/templates/adminlogin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/templates/adminsay.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/templates/bookgl.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/templates/love.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/templates/market.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/templates/my.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/templates/regist.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/templates/scbook.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/templates/userby.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wechat/templates/usergl.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xiangmu/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xiangmu/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xiangmu/app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xiangmu/app/api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xiangmu/app/cxt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xiangmu/app/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xiangmu/app/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xiangmu/app/templates/hello.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xiangmu/app/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xiangmu/app/views/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xiangmu/app/views/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xiangmu/app/views/views1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xiangmu/tasks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xm/pachong/app/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/hellodjango/.idea/hellodjango.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../2/hellodjango/.idea/hellodjango.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/hellodjango/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2/hellodjango/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/hellodjango/App/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/../2/hellodjango/App/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/hellodjango/App/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../2/hellodjango/App/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/hellodjango/App/templates/hello.html" beforeDir="false" afterPath="$PROJECT_DIR$/../2/hellodjango/App/templates/hello.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/hellodjango/App/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../2/hellodjango/App/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/hellodjango/hellodjango/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../2/hellodjango/hellodjango/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/hellodjango/hellodjango/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../2/hellodjango/hellodjango/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/hellodjango/hellodjango/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../2/hellodjango/hellodjango/urls.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/untitled6$wenjian.coverage" NAME="wenjian Coverage Results" MODIFIED="1547435128630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled6$01.coverage" NAME="01 Coverage Results" MODIFIED="1546606430578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/genera_scrapy" />
+    <SUITE FILE_PATH="coverage/untitled6$scz.coverage" NAME="scz Coverage Results" MODIFIED="1547730344602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/App" />
+    <SUITE FILE_PATH="coverage/untitled6$send.coverage" NAME="send Coverage Results" MODIFIED="1547598843483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/App" />
+    <SUITE FILE_PATH="coverage/untitled6$views.coverage" NAME="views Coverage Results" MODIFIED="1546681306711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/App" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="90513b60:SqliteImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="90513b60:SqliteImplModel$Schema" />
+        <item name="huaban: table" type="ffe0bd85:SqliteImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="45634708">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="26" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.30" value="2" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.34" value="4" />
+          <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.41" value="2" />
+          <entry key="project.open.time.47" value="1" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.8" value="3" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="27" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="db" value="1" />
+          <entry key="html" value="13" />
+          <entry key="huaban" value="14" />
+          <entry key="job" value="7" />
+          <entry key="py" value="71" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Database Element" value="21" />
+          <entry key="HTML" value="13" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Python" value="71" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cell" value="3" />
+          <entry key="html" value="405" />
+          <entry key="py" value="3802" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="405" />
+          <entry key="Python" value="3802" />
+          <entry key="Scratch" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/App/xfz.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/App/send.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="576">
+              <caret line="29" column="15" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/App/tests.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/App/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/ontime.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/App/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="26" column="17" lean-forward="true" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/genera_scrapy/genera_scrapy/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/untitled6/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-979">
+              <caret line="46" column="48" lean-forward="true" selection-start-line="46" selection-start-column="48" selection-end-line="46" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/App/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/genera_scrapy/01.py" />
+        <option value="$PROJECT_DIR$/01.py" />
+        <option value="$PROJECT_DIR$/genera_scrapy/genera_scrapy/Djangoltem.py" />
+        <option value="$PROJECT_DIR$/untitled6/urls.py" />
+        <option value="$PROJECT_DIR$/genera_scrapy/genera_scrapy/settings.py" />
+        <option value="$PROJECT_DIR$/genera_scrapy/genera_scrapy/middlewares.py" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
+        <option value="$PROJECT_DIR$/App/models.py" />
+        <option value="$PROJECT_DIR$/genera_scrapy/genera_scrapy/items.py" />
+        <option value="$PROJECT_DIR$/genera_scrapy/genera_scrapy/pipelines.py" />
+        <option value="$PROJECT_DIR$/templates/visit.html" />
+        <option value="$PROJECT_DIR$/untitled6/settings.py" />
+        <option value="$PROJECT_DIR$/genera_scrapy/genera_scrapy/spiders/Wode.py" />
+        <option value="$PROJECT_DIR$/aa.txt" />
+        <option value="$PROJECT_DIR$/wenjian.py" />
+        <option value="$PROJECT_DIR$/App/scz.py" />
+        <option value="$PROJECT_DIR$/App/send.py" />
+        <option value="$PROJECT_DIR$/App/xfz.py" />
+        <option value="$PROJECT_DIR$/App/urls.py" />
+        <option value="$PROJECT_DIR$/templates/ontime.html" />
+        <option value="$PROJECT_DIR$/App/views.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="65" />
+    <option name="y" value="16" />
+    <option name="width" value="1041" />
+    <option name="height" value="708" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="untitled6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled6" type="462c0819:PsiDirectoryNode" />
+              <item name="App" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled6" type="462c0819:PsiDirectoryNode" />
+              <item name="untitled6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/xm/ruidun_system" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.scz">
+    <configuration name="01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled6" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/genera_scrapy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scz" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled6" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/App" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/App/scz.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="send" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled6" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/App" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/App/send.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled6" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/App" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/App/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="wenjian" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled6" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wenjian.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="untitled6" type="Python.DjangoServer" factoryName="Django server">
+      <module name="untitled6" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Django server.untitled6" />
+      <item itemvalue="Python.01" />
+      <item itemvalue="Python.views" />
+      <item itemvalue="Python.send" />
+      <item itemvalue="Python.wenjian" />
+      <item itemvalue="Python.scz" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.scz" />
+        <item itemvalue="Python.send" />
+        <item itemvalue="Python.wenjian" />
+        <item itemvalue="Python.views" />
+        <item itemvalue="Python.01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9847a60d-e6f4-4ac6-9cfa-03439a0e33b5" name="Default Changelist" comment="" />
+      <created>1546603805170</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546603805170</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="64" y="-11" width="1853" height="901" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1448314" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3270349" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3795094" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997093" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3987013" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32882273" />
+      <window_info anchor="bottom" id="Database Console" order="13" weight="0.32882273" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.29782084" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.1381979" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32761088" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.38831168" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.9688312" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32882273" />
+      <window_info anchor="bottom" id="Database Console" order="13" weight="0.32882273" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info active="true" anchor="right" id="Database" order="4" visible="true" weight="0.49253732" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/01.py" />
+    <entry file="file://$PROJECT_DIR$/genera_scrapy/genera_scrapy/Djangoltem.py" />
+    <entry file="das://176c6807-da8b-4510-9b46-98c005d7c61e/schema/main/table/job" />
+    <entry file="file://$PROJECT_DIR$/untitled6/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/untitled6/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/genera_scrapy/genera_scrapy/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="121" column="57" selection-start-line="121" selection-start-column="57" selection-end-line="121" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/genera_scrapy/genera_scrapy/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="20" column="15" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.pyenv/versions/env37/lib/python3.6/site-packages/pyhdfs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="708" selection-start-line="708" selection-end-line="708" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db" />
+    <entry file="das://176c6807-da8b-4510-9b46-98c005d7c61e/schema/main/table/huaban">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wenjian.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aa.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/genera_scrapy/genera_scrapy/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/genera_scrapy/genera_scrapy/spiders/Wode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/visit.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-696">
+          <caret line="34" column="18" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.pyenv/versions/env37/lib/python3.6/site-packages/engineio/async_drivers/gevent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1176">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/scz.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/xfz.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/send.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="29" column="15" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/ontime.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/genera_scrapy/genera_scrapy/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/untitled6/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-979">
+          <caret line="46" column="48" lean-forward="true" selection-start-line="46" selection-start-column="48" selection-end-line="46" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="26" column="17" lean-forward="true" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
